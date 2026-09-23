@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "e89cdb1c0d2e7d22ec8257f9",
+  "owner": "vxspeg9bv",
+  "repo": "page-ccd467b5dcc73e3bf05cc046",
+  "title": "ziweiguan",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "ccd467b5dcc73e3bf05cc046",
+      "a": "ziweiguan",
+      "b": "稳定全球clash加速器",
+      "entity": "ziweiguan",
+      "brand": "ziweiguan",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "2135faf8ccef307b7e7ec893455de95f4787e4e201d3cfc4042ed5091680e50b",
+      "content": {
+        "primary_entity": "ziweiguan",
+        "keyword1": "ziweiguan",
+        "keyword2": "稳定全球clash加速器",
+        "content": {
+          "AI_CLIENTS_INTRO": "按设备数量与系统选择客户端，基础版适合手机单端，旗舰版覆盖桌面与移动多端，团队版便于统一管理。",
+          "AI_CLIENTS_TITLE": "客户端选择",
+          "AI_CLOSING_TEXT": "根据设备数量选好套餐，然后按客户端文档导入订阅即可开始。",
+          "AI_CLOSING_TITLE": "选对套餐再开始",
+          "AI_DESCRIPTION": "，面向需要多设备接入的用户，提供基础版、旗舰版与团队版三档订阅选择，流量从每月100GB到1000GB，支持3台到20台设备同时在线，旗舰版与团队版附带流媒体解锁和专线优化，可按月或按年支付。",
+          "AI_FEATURES_INTRO": "从设备数量、订阅周期和流量三个角度拆解套餐选择。",
+          "AI_FEATURES_TITLE": "按需选套餐",
+          "AI_FEATURE_TEXT_1": "手机加平板加电脑常用组合，旗舰版5台设备同时在线比较贴合，基础版3台适合单人使用。",
+          "AI_FEATURE_TEXT_2": "流量按月重置，100GB适合轻度浏览，300GB覆盖日常视频，1000GB适合团队集中使用。",
+          "AI_FEATURE_TEXT_3": "按月付灵活切换，按年付基础版150元、旗舰版350元、团队版850元，长期使用更划算。",
+          "AI_FEATURE_TITLE_1": "设备数量匹配",
+          "AI_FEATURE_TITLE_2": "流量周期规划",
+          "AI_FEATURE_TITLE_3": "付费方式选择",
+          "AI_GUIDE_INTRO": "选套餐、查适配、导订阅，三步完成基础配置。",
+          "AI_GUIDE_TITLE": "使用流程",
+          "AI_HERO_INTRO": "ziweiguan 提供基础版、旗舰版与团队版三档订阅，覆盖每月100GB到1000GB流量，支持3台至20台设备同时在线，旗舰版与团队版附带流媒体解锁和专线优化，可按月或按年支付。",
+          "AI_HERO_SUBTITLE": "多设备订阅，按需选套餐",
+          "AI_HIGHLIGHT_1": "三档套餐按月或按年灵活付费",
+          "AI_HIGHLIGHT_2": "旗舰版5台设备与300GB流量",
+          "AI_HIGHLIGHT_3": "团队版20台设备与1000GB流量",
+          "AI_PLANS_INTRO": "基础版15元每月100GB支持3台设备，旗舰版35元每月300GB支持5台设备并带专线优化，团队版85元每月1000GB支持20台设备，按年付分别150元、350元、850元。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_STEP_TEXT_1": "根据常用设备数量和每月流量需求，在基础版、旗舰版和团队版之间选择。",
+          "AI_STEP_TEXT_2": "查看所选套餐支持的设备数量与系统要求，确认是否需要流媒体或专线优化。",
+          "AI_STEP_TEXT_3": "按对应客户端的订阅文档导入配置，完成节点连接与日常使用。",
+          "AI_STEP_TITLE_1": "选择服务",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TITLE_3": "配置订阅",
+          "AI_VISUAL_TITLE": "ziweiguan 多设备订阅",
+          "AI_FAQ_ANSWER_1": "基础版每月 100GB 流量、支持 3 台设备同时在线，适合手机与电脑轻度使用。如需更多流量或设备数，可选旗舰版或团队版。",
+          "AI_FAQ_ANSWER_2": "旗舰版支持 5 台设备同时在线，团队版支持 20 台。多设备场景建议按常用设备总数选择对应档位。",
+          "AI_FAQ_ANSWER_3": "Windows 推荐 Clash Verge，macOS 推荐 ClashX Pro，Android 可用 v2rayNG 或 Clash for Android，iOS 可用 Shadowrocket 或 Stash。",
+          "AI_FAQ_ANSWER_4": "年付更划算：基础版 ¥150/年，旗舰版 ¥350/年，团队版 ¥850/年，相当于按月付价格节省两个月费用。",
+          "AI_FAQ_ANSWER_5": "可先确认设备数量与月流量需求，再对照套餐权益选择；旗舰版含 IPLC 专线游戏加速优化，团队版支持企业定制路由。",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "基础版每月流量和在线设备数是多少？",
+          "AI_FAQ_QUESTION_2": "多设备同时在线选哪个套餐？",
+          "AI_FAQ_QUESTION_3": "各平台推荐用什么客户端？",
+          "AI_FAQ_QUESTION_4": "年付与月付价格差多少？",
+          "AI_FAQ_QUESTION_5": "怎样根据需求选择合适套餐？",
+          "AI_FAQ_TITLE": "常见问题速览"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "xn--yfrw1gnyc571cg9z.com",
+    "host": "xn--yfrw1gnyc571cg9z.com"
+  },
+  "file_hashes": {
+    "index.html": "ce609ba9b4b8471561bf7d4df0da609e39ed7e03447fbc071e827515789c72e2",
+    "sitemap.xml": "7792eb817733b526933be3f3a21efe2635392afa2f279bcb6fdfd0dfb9f3b8c3",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "2983b6e90c3b25f3388e5b1f865a10da9d2adc8e9b001b1e5db1ab670641321e",
+    "robots.txt": "f967d2f279b68f1a801870fc9ea3a648a8d1833db1acb293e1d80c9df34a0260",
+    "f6c851e51fe5d07dd889b44c9d5d5cf8.txt": "85eb8dba1afd03054cdaf303420eefdda238107504cc0c8afdcf4fc207450c61"
+  },
+  "revision": "9c2fdcb2e2185ae177e704157cc7d372b8dfe8bec03ae3963e17f001392f910f"
+}
